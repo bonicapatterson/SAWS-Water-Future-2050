@@ -512,19 +512,17 @@ Connect Tableau Public to your Supabase PostgreSQL instance, or load directly fr
 
 ---
 
-## 👩🏾‍💻 About
+## 👩🏾‍💻 About 
 
 **Bonica Patterson** — Data Analyst
 
-BS Computer Science &nbsp;·&nbsp; MS Digital Forensics & Cyber Investigation
-BI Analytics Certification &nbsp;·&nbsp; Data Analytics Certification
-*University of Maryland Global Campus*
+BS Computer Science &nbsp;·&nbsp; 
+MS Digital Forensics & Cyber Investigation &nbsp;·&nbsp;
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-bonicapatterson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bonicapatterson)
-[![Tableau](https://img.shields.io/badge/Tableau-Full%20Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bonica.patterson)
-[![Video](https://img.shields.io/badge/Google%20Drive-Project%20Walkthrough-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1P_An8l35lfajnl4V3faoZE49f2dyHopD/view?usp=sharing)
+
+[![Tableau](https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bonica.patterson) | [![Website](https://img.shields.io/badge/BonicaPatterson.com-4285F4?style=for-the-badge&logo=tableau&logoColor=white)](https://bonicapatterson.com) | [![Video](https://img.shields.io/badge/Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1P_An8l35lfajnl4V3faoZE49f2dyHopD/view?usp=sharing)
 
 </div>
 
@@ -546,9 +544,14 @@ BI Analytics Certification &nbsp;·&nbsp; Data Analytics Certification
 <div align="center">
 
 ```
-Built end-to-end with: Tableau · PostgreSQL · Python · Excel · GitHub
-Data: Edwards Aquifer Authority · NOAA · Texas Water Development Board · U.S. Census Bureau
-Analysis by: Bonica Patterson — 2026
+Built end-to-end with:
+Tableau · PostgreSQL · Python · Excel · GitHub
+
+Data:
+Edwards Aquifer Authority · NOAA · Texas Water Development Board · U.S. Census Bureau
+
+Analysis by:
+Bonica Patterson — 2026
 ```
 
 *If this analysis is useful to you, please ⭐ the repository.*
